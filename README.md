@@ -10,6 +10,4 @@ The MIT License
 If you want to collaborate
 
 ## Bug
-There's a bug
-
-adddd
+There's a bugreeee
