@@ -11,5 +11,9 @@ If you want to collaborate
 
 ## Bug
 There's a bug
+<<<<<<< HEAD
 
 adddd
+=======
+rerere
+>>>>>>> dev
